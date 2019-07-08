@@ -1,0 +1,128 @@
+
+
+/* Welcome */
+"Welcome.spacebookLabel" = "";
+"Welcome.conquerTheStarsLabel" = "Ekranin arkasindan yildizlari fethet";
+"Welcome.logInButton" = "Sisteme Giris";
+"Welcome.signUpButton" = "Yeni kullanici";
+"Welcome.supernovaStuLabel" = "";
+
+
+/* Login */
+"LoginViewController.navigationBarTitle" = "";
+"Login.backBarButtonItem" = "";
+"Login.logInLabel" = "Sisteme Giris";
+"Login.welcomeBackLabel" = "Hosgeldin. \nGalaksi seni bekler.";
+"Login.yourNicknameTextField" = "Takma adin";
+"Login.yourPasswordTextField" = "Tahmin edilebilir sifren :)";
+"Login.loginButton" = "Sisteme Gir";
+"Login.forgotYourPasswordButton" = "Sifreni mi unuttun, kowboy?";
+
+
+/* Signup */
+"SignupViewController.navigationBarTitle" = "";
+"Signup.backBarButtonItem" = "";
+"Signup.signUpLabel" = "";
+"Signup.itSFreeLabel" = "";
+"Signup.yourNicknameTextField" = "";
+"Signup.yourSpacemailTextField" = "";
+"Signup.passwordTextField" = "";
+"Signup.signUpButton" = "";
+"Signup.logInButton" = "";
+"Signup.iAgreeWithIntergaLabel" = "";
+
+
+/* Timeline */
+"TimelineViewController.navigationBarTitle" = "";
+"Timeline.tabBarTitle" = "";
+"NewsTableViewCell.spacecrunchLabel" = "";
+"NewsTableViewCell.today145PmLabel" = "";
+"NewsTableViewCell.spacewoman185kLiLabel" = "";
+"NewsTableViewCell.kCommentsLabel" = "";
+"NewsTableViewCell.melonHuskLaunchesLabel" = "";
+"LifetimeEventTableViewCell.plutoPostedANewLLabel" = "";
+"LifetimeEventTableViewCell.inAComplicatedRelLabel" = "";
+"NewsTwoTableViewCell.theGoodOldTimesLabel" = "";
+"NewsTwoTableViewCell.today145PmLabel" = "";
+"NewsTwoTableViewCell.varthDader3kLikLabel" = "";
+"NewsTwoTableViewCell.commentsDisabledByLabel" = "";
+"NewsTwoTableViewCell.raidersFromTheGemLabel" = "";
+"EventTableViewCell.laikaCreatedANewLabel" = "";
+"EventTableViewCell.backFromTheSpaceLabel" = "";
+"EventTableViewCell.johnJoeAndJackLabel" = "";
+"EventTableViewCell.labelLabel" = "";
+"EventTableViewCell.guessWhoSBackLabel" = "";
+"AdvertisementTableViewCell.hullTattoosANewLabel" = "";
+"AdvertisementTableViewCell.sponsoredContentLabel" = "";
+"AdvertisementTableViewCell.sprayAndPrayLabel" = "";
+
+
+/* Profile */
+"ProfileViewController.navigationBarTitle" = "";
+"Profile.tabBarTitle" = "";
+"Profile.settingsBarButtonItem" = "";
+"Profile.avatarTempButton" = "";
+"Profile.phoneBoothAndroLabel" = "";
+"Profile.drWhatLabel" = "";
+"Profile.travelerDreamerLabel" = "";
+"Profile.stalkingLabel" = "";
+"Profile.labelLabel" = "";
+"Profile.stalkersLabel" = "";
+"Profile.kLabel" = "";
+"Profile.photosLabel" = "";
+"Profile.labelTwoLabel" = "";
+
+
+/* Profile Photos */
+"ProfilePhotosViewController.navigationBarTitle" = "";
+"ProfilePhotos.backBarButtonItem" = "";
+"ProfilePhotos.todayLabel" = "";
+"ProfilePhotos.tomorrowLabel" = "";
+
+
+/* Profile Settings */
+"ProfileSettingsViewController.navigationBarTitle" = "";
+"ProfileSettings.backBarButtonItem" = "";
+"ProfileSettings.textLabel" = "";
+"ProfileSettings.labelLabel" = "";
+"ProfileSettings.textTwoLabel" = "";
+"ProfileSettings.labelTwoLabel" = "";
+"ProfileSettings.textThreeLabel" = "";
+"ProfileSettings.labelThreeLabel" = "";
+"ProfileSettings.labelFourLabel" = "";
+"ProfileSettings.textFourLabel" = "";
+"ProfileSettings.labelFiveLabel" = "";
+"ProfileSettings.detailsLabel" = "";
+"ProfileSettings.informationLabel" = "";
+"ProfileSettings.labelSixLabel" = "";
+
+
+/* Messages */
+"MessagesViewController.navigationBarTitle" = "";
+"Messages.tabBarTitle" = "";
+"Messages.mrsDoyaLabel" = "";
+"Messages.jackLabel" = "";
+"Messages.gideonLabel" = "";
+"Messages.sarahScLabel" = "";
+"Messages.vulcanLabel" = "";
+"Messages.theNeedsOfTheFewLabel" = "";
+"Messages.nameLabel" = "";
+"Messages.iMTellingYouTheLabel" = "";
+"Messages.nameTwoLabel" = "";
+"Messages.howDoYouGoToTheLabel" = "";
+"Messages.nameThreeLabel" = "";
+"Messages.theWaterSoTestyYLabel" = "";
+"Messages.nameFourLabel" = "";
+"Messages.finallyHavingADatLabel" = "";
+"Messages.nameFiveLabel" = "";
+"Messages.weVeBeenForcedToLabel" = "";
+"Messages.nameSixLabel" = "";
+
+
+/* Event detail */
+"EventDetailViewController.navigationBarTitle" = "";
+"EventDetail.backBarButtonItem" = "";
+"EventDetail.guessWhoSBackLabel" = "";
+"EventDetail.happeningIn20hBaLabel" = "";
+"EventDetail.eventPostedByLaikLabel" = "";
+"EventDetail.comingLabel" = "";

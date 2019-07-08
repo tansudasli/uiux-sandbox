@@ -1,0 +1,128 @@
+
+
+/* Welcome */
+"Welcome.spacebookLabel" = "Spacebook";
+"Welcome.conquerTheStarsLabel" = "Conquer the stars\nfrom behind the screen.";
+"Welcome.logInButton" = "LOG IN";
+"Welcome.signUpButton" = "SIGN UP";
+"Welcome.supernovaStuLabel" = "© 2050 Supernova Studio";
+
+
+/* Login */
+"LoginViewController.navigationBarTitle" = "";
+"Login.backBarButtonItem" = "";
+"Login.logInLabel" = "Log in";
+"Login.welcomeBackLabel" = "Welcome back. The galaxy awaits you.";
+"Login.yourNicknameTextField" = "Your nickname";
+"Login.yourPasswordTextField" = "Your password";
+"Login.loginButton" = "LOG IN";
+"Login.forgotYourPasswordButton" = "Forgot your password?";
+
+
+/* Signup */
+"SignupViewController.navigationBarTitle" = "";
+"Signup.backBarButtonItem" = "";
+"Signup.signUpLabel" = "Sign up";
+"Signup.itSFreeLabel" = "It’s free and always will be.\nBecause advertisement.";
+"Signup.yourNicknameTextField" = "Your nickname";
+"Signup.yourSpacemailTextField" = "Your spacemail";
+"Signup.passwordTextField" = "Password (40+ characters)";
+"Signup.signUpButton" = "SIGN UP";
+"Signup.logInButton" = "Already gave up your soul? ";
+"Signup.iAgreeWithIntergaLabel" = "I agree with intergalatic terms and conditions";
+
+
+/* Timeline */
+"TimelineViewController.navigationBarTitle" = "What's up?";
+"Timeline.tabBarTitle" = "News";
+"NewsTableViewCell.spacecrunchLabel" = "SpaceCrunch";
+"NewsTableViewCell.today145PmLabel" = "Today, 1:45 PM";
+"NewsTableViewCell.spacewoman185kLiLabel" = "Spacewoman & 185k like this";
+"NewsTableViewCell.kCommentsLabel" = "21k comments";
+"NewsTableViewCell.melonHuskLaunchesLabel" = "Melon Husk launches the first car that can travel a galaxy on a single tank of gas.";
+"LifetimeEventTableViewCell.plutoPostedANewLLabel" = "Pluto posted a new life event";
+"LifetimeEventTableViewCell.inAComplicatedRelLabel" = "In a complicated relationship";
+"NewsTwoTableViewCell.theGoodOldTimesLabel" = "The Good Old Times";
+"NewsTwoTableViewCell.today145PmLabel" = "Today, 1:45 PM";
+"NewsTwoTableViewCell.varthDader3kLikLabel" = "Varth Dader & 3k like this";
+"NewsTwoTableViewCell.commentsDisabledByLabel" = "Comments disabled by the force";
+"NewsTwoTableViewCell.raidersFromTheGemLabel" = "Raiders from the Gemini Cluster are attacking colonial trader ships. When will the Federation step in?";
+"EventTableViewCell.laikaCreatedANewLabel" = "Laika created a new event near you";
+"EventTableViewCell.backFromTheSpaceLabel" = "Back from the space trip! Come everyone.";
+"EventTableViewCell.johnJoeAndJackLabel" = "John, Joe and Jack & 18k are coming";
+"EventTableViewCell.labelLabel" = "3/13/2050";
+"EventTableViewCell.guessWhoSBackLabel" = "Guess who’s back?";
+"AdvertisementTableViewCell.hullTattoosANewLabel" = "Hull tattoos? A new trend to follow in 2050";
+"AdvertisementTableViewCell.sponsoredContentLabel" = "Sponsored content";
+"AdvertisementTableViewCell.sprayAndPrayLabel" = "Spray and Pray";
+
+
+/* Profile */
+"ProfileViewController.navigationBarTitle" = "Dr. What Profile";
+"Profile.tabBarTitle" = "Account";
+"Profile.settingsBarButtonItem" = "Settings";
+"Profile.avatarTempButton" = "";
+"Profile.phoneBoothAndroLabel" = "1 Phone Booth, Andromeda";
+"Profile.drWhatLabel" = "Dr. What";
+"Profile.travelerDreamerLabel" = "Traveler, dreamer, showman. Occasionally gets into fight, not always survives.";
+"Profile.stalkingLabel" = "Stalking";
+"Profile.labelLabel" = "326";
+"Profile.stalkersLabel" = "Stalkers";
+"Profile.kLabel" = "58k";
+"Profile.photosLabel" = "Photos";
+"Profile.labelTwoLabel" = "365";
+
+
+/* Profile Photos */
+"ProfilePhotosViewController.navigationBarTitle" = "Dr. When photos";
+"ProfilePhotos.backBarButtonItem" = "";
+"ProfilePhotos.todayLabel" = "TODAY";
+"ProfilePhotos.tomorrowLabel" = "TOMORROW";
+
+
+/* Profile Settings */
+"ProfileSettingsViewController.navigationBarTitle" = "Dr. Where settings";
+"ProfileSettings.backBarButtonItem" = "";
+"ProfileSettings.textLabel" = "Dr. Where";
+"ProfileSettings.labelLabel" = "Name";
+"ProfileSettings.textTwoLabel" = "Yes";
+"ProfileSettings.labelTwoLabel" = "Occasional advertisement";
+"ProfileSettings.textThreeLabel" = "Log out";
+"ProfileSettings.labelThreeLabel" = "Dr. Where";
+"ProfileSettings.labelFourLabel" = "Logged as";
+"ProfileSettings.textFourLabel" = "tardis~spacemail.io";
+"ProfileSettings.labelFiveLabel" = "Spacemail";
+"ProfileSettings.detailsLabel" = "DETAILS";
+"ProfileSettings.informationLabel" = "INFORMATION";
+"ProfileSettings.labelSixLabel" = "Randomize timeline information";
+
+
+/* Messages */
+"MessagesViewController.navigationBarTitle" = "Messages";
+"Messages.tabBarTitle" = "Messages";
+"Messages.mrsDoyaLabel" = "Mrs. Doya";
+"Messages.jackLabel" = "Jack";
+"Messages.gideonLabel" = "Gideon";
+"Messages.sarahScLabel" = "Sarah ‘SC’";
+"Messages.vulcanLabel" = "Vulcan";
+"Messages.theNeedsOfTheFewLabel" = "The needs of the few outweight the needs of the many.";
+"Messages.nameLabel" = "Vulcan";
+"Messages.iMTellingYouTheLabel" = "I’m telling you, they are amongst us! #scared";
+"Messages.nameTwoLabel" = "Fox Murder";
+"Messages.howDoYouGoToTheLabel" = "How do you go to the bathroom in the suit?";
+"Messages.nameThreeLabel" = "Tony Spark";
+"Messages.theWaterSoTestyYLabel" = "The water so testy your own dad will kill you for it";
+"Messages.nameFourLabel" = "Lukewarm Skywater";
+"Messages.finallyHavingADatLabel" = "Finally having a date with Pam, took like 10 years.";
+"Messages.nameFiveLabel" = "Jack O’ Kneel";
+"Messages.weVeBeenForcedToLabel" = "We’ve been forced to add you a new friend";
+"Messages.nameSixLabel" = "Mrs. Doya";
+
+
+/* Event detail */
+"EventDetailViewController.navigationBarTitle" = "Guess who's back?";
+"EventDetail.backBarButtonItem" = "";
+"EventDetail.guessWhoSBackLabel" = "Guess who’s back?";
+"EventDetail.happeningIn20hBaLabel" = "Happening in 20h, Bajkonur";
+"EventDetail.eventPostedByLaikLabel" = "Event posted by Laika";
+"EventDetail.comingLabel" = "Coming";
