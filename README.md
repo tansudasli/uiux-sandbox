@@ -19,7 +19,7 @@ or just watch [Demo App](https://github.com/tansudasli/uiux-sandbox/blob/master/
 
 There are 2 specific design challanges for demo-translator-app.
 
-1. UX problem between Event and many Conferences.
+1. UX problem between Event and many Conferences (one-2-many).
    - Solution a: Create an Event screen, then He/She clicks to see Conferences detail, then clicks to listen to translation.
    - Solution b: It is instagram style design. Requires smart filtering with ML classification models, and He/She sees all events and condeferences on the same screen.
         - so overcome complexity w/ smart dynamic filtering
