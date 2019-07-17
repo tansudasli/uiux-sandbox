@@ -4,7 +4,7 @@
 - .snproject: Supernova project (imported .sketch file)
 
 - [x] supernova-sandbox/: contains sketch and imported supernova project, also IOS and Android exports.
-- [x] sketch-sandbox/: contains skecth apps.
+- [x] design-challanges-in-translator-app/: contains design challanges in a podcast/video player or more generarlly master-detail apps.
 
 ## How To Start 
 
