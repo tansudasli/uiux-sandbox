@@ -11,6 +11,8 @@
 1. Download sketch.io
 2. Download supernova.io
 3. Download material.io plugin for sketch
+4. Open material.io sketch file, and customize a new theme. Then File/Add as librtary.
+
 
 or just watch [Demo App](https://github.com/tansudasli/uiux-sandbox/blob/master/demo-translator-app.mov)
 
